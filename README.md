@@ -2,7 +2,7 @@ Student Name: Aizulfadhli Bin Zainuddin
 
 Student ID: A221002
 
-### **Project 1: SDG Problem Statement**
+**Project 1: SDG Problem Statement**
 
 **Project Name:** CareGo: Student Health & Symptom Tracker
 

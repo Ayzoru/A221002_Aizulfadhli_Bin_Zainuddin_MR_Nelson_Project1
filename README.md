@@ -5,7 +5,7 @@ Student ID: A221002
 ### **Project 1: SDG Problem Statement**
 
 **Project Name:** CareGo: Student Health & Symptom Tracker
-**Selected SDG:** Goal 3: Good Health and Well-being (Malaysian Context)
+**Selected SDG:** Goal 3: Good Health and Well-being 
 
 **1. The Problem**
 University students in Malaysia often face high academic pressure, leading to irregular sleep, stress, and physical health symptoms (such as tension headaches or fatigue). These symptoms are frequently ignored or undocumented because most existing health apps are either too complex for daily use or require paid subscriptions. Without a simple way to track these minor occurrences, students often fail to notice declining health trends until they lead to burnout or serious illness.
